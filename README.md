@@ -2,6 +2,18 @@
 
 A zakat program using flutter.
 
+Main Screen
+
+![Zakat App](https://i.imgur.com/i7Rnsln.png)
+
+Detail Menu
+
+![Zakat App](https://i.imgur.com/SBNtUYI.png)
+
+Detail Screen
+
+![Zakat App](https://i.imgur.com/koDgEjl.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
